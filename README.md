@@ -1,6 +1,6 @@
 # Vjudge-Contest_Analyzer
 
-### Vjudge: an online tool that allows grab problems from other vritual judges like codeForces, HackerRank, etc. you can also make groups and you can make a contest between the students of this group.
+#### Vjudge: an online tool that allows grab problems from other vritual judges like codeForces, HackerRank, etc. you can also make groups and you can make a contest between the students of this group.
 
 This python library allows you to get useful insights from the contest while it's running or - preferably - after completion, you can also compare contests to see how the levels of the students have changed.
 
