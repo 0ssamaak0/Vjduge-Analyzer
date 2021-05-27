@@ -28,8 +28,7 @@ for the python libraries you can easily use the command ``` pip install -r requi
 now open a new jupyter notbook or a python file.
 use `get_contest` function to save the contest into a variable. pass the HTML file to this function as a parameter.
 
-```
-python
+```python
 c1 = get_contest("someHTMLfile.html")
 ```
 
@@ -46,8 +45,7 @@ congratulations! you can now analyze this contest using  4 functions:
 
 The usage of these functions are very similar, each one takes at least one parameter, that must be an iterable e.g., a list - you may need to compare many contests - and an optional boolean save parameter if you want to save the stats or the graph, and finally the name of this file, it will have a general name if no name is specified.
 
-```
-python
+```python
 graph_scores_histogram([c1, c2], True)
 graph_submissions_per_hour([myContest])
 verbal_stats([c1, c2, c3, c4], True, "all verbal stats")
