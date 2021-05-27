@@ -32,7 +32,7 @@ use `get_contest` function to save the contest into a variable. pass the HTML fi
 c1 = get_contest("someHTMLfile.html")
 ```
 
-congratulations! you can now analyze this contest using  4 functions:
+Congratulations! you can now analyze this contest using the 4 functions:
 
 1- `verbal_stats`
 
