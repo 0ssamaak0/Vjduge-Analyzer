@@ -15,6 +15,8 @@ matplotlib
 
 bs4
 
+lxml
+
 for the python libraries you can easily use the command ``` pip install -r requirements.txt ```.
 
 ## Usage
